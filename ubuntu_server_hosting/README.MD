@@ -169,3 +169,5 @@
 <img width="779" alt="스크린샷 2023-09-09 오전 3 06 27" src="https://github.com/KorJM/maphant-app/assets/114234223/4998f62f-f7b6-4437-8e7c-3fd66dfedf74">
 
 <br>
+<hr>
+<span></span>
