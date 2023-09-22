@@ -2,7 +2,7 @@
 <hr>
 <br>
 
-![Site-Title done](https://github.com/KorJM/ecloe-project/assets/114234223/7671b56f-a7cb-43a9-82b8-cf093f9c47e7)
+![Site-Title (1)](https://github.com/KorJM/ecloe-project/assets/114234223/0e16f2e4-1200-4b7c-ae68-e50ad2c8a2ef)
 
 <br>
 <span>WordPress를 사용하여 제작한 포트폴리오 웹 사이트입니다.</span><br>
