@@ -8,8 +8,7 @@
 <p>세로로 나열되어있던 프로젝트 내용들을 페이지네이션으로 깔끔하게 정리하였습니다.</p>
 <p>제가 키우는 강아지인 몽글이 사진을 크게 보기위해 Foogallery플러그인을 사용하였습니다.</p>
 <p>footer에 불필요한 부분을 간소화하고 아이콘들을 바꿨습니다.</p>
- 
-![Project01-Site-Title](https://github.com/KorJM/Blovi-Project/assets/114234223/6e447ddf-5a84-4b80-8617-178e175f52e7)
 
+![Project01-Site-Title](https://github.com/KorJM/Blovi-Project/assets/114234223/2e88a13a-4174-4a87-b41e-decad8e2cb24)
 
 <p>프로젝트 설명 페이지입니다.</p>
