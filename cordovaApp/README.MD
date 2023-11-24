@@ -36,3 +36,10 @@ ___
 
 # 느낀점
 html, css ,js 만으로도 앱을 만들 수 있다는게 신기했고 재밋었다~
+
+___
+
+
+https://github.com/KorJM/ecloe-project/assets/114234223/96469a43-9cd8-4204-9580-da1a3c64feb0
+
+
